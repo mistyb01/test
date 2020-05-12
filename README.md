@@ -2,3 +2,4 @@
 - pichu
 - pikachu
 - raichu
+- squirtle
